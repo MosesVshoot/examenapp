@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.phonegap.appBaseDeDatos"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+
+h1 {
+    font-size:24px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+    color: solid black;
+}
+body{
+    background: linear-gradient(to bottom right, brown, white, brown);
+}
