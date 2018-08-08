@@ -11,3 +11,10 @@ h1 {
 body{
     background: linear-gradient(to bottom right, brown, white, brown);
 }
+ 
+#boton{
+    font-size: 25px;
+    height: 40px;
+    width: 150px;
+    color: solid black;
+}
