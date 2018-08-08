@@ -9,18 +9,18 @@
 		<!-- This is a wide open CSP declaration. To lock this down for production, see below. -->
 		<!--<meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline'; style-src 'self' 'unsafe-inline'; media-src *" />-->
 		
-		<link rel="stylesheet" type="text/css" href="css/index.css"/>
+		<!--<link rel="stylesheet" type="text/css" href="css/index.css"/>-->
 		<title>Consulta a Base de Datos</title>
-		<!--<link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
+		<link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
 		<link rel="stylesheet" href="css/jquery.mobile.theme-1.4.5.min.css" />
 		<link rel="stylesheet" href="css/jquery.mobile.struture-1.4.5.min.css" />
-		<script src="cordova.js"></script>-->
+		<script src="cordova.js"></script>
 		<!--<script type="text/javascript" src="cordova.js"></script>-->
 		<script src="js/jquery-1.11.1.min.js"></script>
 		<!--<script src="js/jquery.mobile-1.4.5.min.js"></script>-->
 		<script>
 			function init(){
-				$.getJSON('http://192.168.1.108/respuesta1.php', function(data){
+				$.getJSON('http://192.168.1.65/respuesta1.php', function(data){
 						
 
 					for (var i = 0; i < data.length; i++) {						
@@ -37,7 +37,7 @@
 			} 
 			function checkin(){
 				
-				$.getJSON('http://192.168.1.108/respuesta1.php', function(data){
+				$.getJSON('http://192.168.1.65/respuesta1.php', function(data){
 				var mark = 0;
 
 				for (var i = 0; i < data.length; i++) {	
